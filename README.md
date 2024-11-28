@@ -21,7 +21,7 @@ package com.amazonaws.services.lambda.runtime.events;
 ```
 <h1>Logs</h1>
 
-```json
+```
 14:24:48.536 [main] INFO org.springframework.cloud.function.utils.FunctionClassUtils -- Main class: class com.example.SpringCloudAdapterAWS.SpringCloudAdapterAWSApplication
 .   ____          _            __ _ _
 /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
